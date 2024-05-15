@@ -1,6 +1,4 @@
 ### Hi there 👋 This Jitender Singh.I am from hyderabad which is in India.I like to explore new technologies and build cool application using the latest tech.
-- 🔭 I’m currently Pursuing Master's in Applied Computer Science.
-- 🌱 I’m currently learning web-applications.
 - ⚡ Fun fact:I love Biryani and Butter Chicken.
 
 <!--
