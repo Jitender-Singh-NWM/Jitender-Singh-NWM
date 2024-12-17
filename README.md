@@ -1,4 +1,4 @@
-### Hi there 👋 This Jitender Singh.I am from hyderabad which is in India.I like to explore new technologies and build cool application using the latest tech.
+### Hi there 👋 This Jitender Singh.I like to explore new technologies and build cool application using the latest tech.
 - ⚡ Fun fact:I love Biryani and Butter Chicken.
 
 <!--
